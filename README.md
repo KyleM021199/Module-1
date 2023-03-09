@@ -5,3 +5,4 @@
 - Added alt text to all of images to help describe the image.
 ## CSS file:
 - The class links are in the proper HTML tags.
+- The 6 boxes on the site consolidated into "menu-box" and "sidebar-box".
